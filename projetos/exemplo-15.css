@@ -1,0 +1,21 @@
+.resize1 { /*Mexe para a Horizontal*/
+    border: 2px solid;
+    padding: 20px;
+    width: 300px;
+    resize: horizontal;
+    overflow: auto;
+}
+.resize2 { /*Mexe para a Vertical*/
+    border: 2px solid;
+    padding: 20px;
+    width: 300px;
+    resize: vertical;
+    overflow: auto;
+}
+.resize3 { /*Mexe para a Horizontal e Vertical*/
+    border: 2px solid;
+    padding: 20px;
+    width: 300px;
+    resize: both;
+    overflow: auto;
+}
